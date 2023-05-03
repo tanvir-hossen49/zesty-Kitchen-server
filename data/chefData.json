@@ -28,7 +28,6 @@
     "id": 4,
     "chef_picture": "https://i.ibb.co/K66d1qF/lady2.jpg",
     "chef_name": "Farzana Sutana",
-
     "years_of_experience": 5,
     "number_of_recipes": 10,
     "likes": 110
@@ -37,7 +36,6 @@
     "id": 5,
     "chef_picture": "https://i.ibb.co/DGykgBj/man3.jpg",
     "chef_name": "Zahid Hasan",
-
     "years_of_experience": 6,
     "number_of_recipes": 11,
     "likes": 104
@@ -46,7 +44,6 @@
     "id": 6,
     "chef_picture": "https://i.ibb.co/cYnDhXn/lady3.jpg",
     "chef_name": "Sezuti mukta",
-
     "years_of_experience": 8,
     "number_of_recipes": 9,
     "likes": 112
