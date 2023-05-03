@@ -14,6 +14,13 @@ app.get("/chef-data", (req, res) => {
   res.send(chefData);
 });
 
+app.get("/chef-data/:id", (req, res) => {
+  const id = req.params.id;
+
+  const chefInfo = chefData.find(chef => chef.id === id);
+  res.send(chefInfo);
+});
+
 app.listen(PORT, () => {
   console.log(`dragon is runnig on port`, PORT);
 });

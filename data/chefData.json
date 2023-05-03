@@ -4,7 +4,7 @@
     "name": "Anil Kapoor",
     "chef_img": "https://i.ibb.co/4V66X7n/man1.jpg",
     "years_of_experience": 30,
-    "number_of_recipes": 400,
+    "number_of_recipes": 60,
     "likes": 50000,
     "bio_description": "Anil Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He is best known as the host of the popular TV show Khana Khazana, which aired more than 500 episodes. With over 30 years of experience, he has authored more than 150 cookbooks and has his own chain of restaurants worldwide.",
     "recipes": [
@@ -66,7 +66,7 @@
     "name": "Virat Khanna",
     "chef_img": "https://t4.ftcdn.net/jpg/00/58/32/83/240_F_58328324_2sCE6RLXcpXf9chcQ1EAi1K0fqGwQVeJ.jpg",
     "years_of_experience": 20,
-    "number_of_recipes": 300,
+    "number_of_recipes": 45,
     "likes": 70000,
     "bio_description": "Virat Khanna is a Michelin-starred Indian chef, restaurateur, cookbook writer, filmmaker, humanitarian, and the host of the TV show MasterChef India. He has written more than 30 cookbooks and has his own restaurant in New York City. He has also served as a judge on the TV show MasterChef India.",
     "recipes": [
@@ -128,7 +128,7 @@
     "name": "Vivek Dalal",
     "chef_img": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683127361~exp=1683127961~hmac=a32a33f4a36236528814e0478a9368f7c50e5875633b5876f74d3137159d5769",
     "years_of_experience": 35,
-    "number_of_recipes": 1000,
+    "number_of_recipes": 50,
     "likes": 80000,
     "bio_description": "Vivek Dalal was an Indian cookbook author and chef who was known for her easy-to-follow recipes. She authored more than 100 cookbooks and hosted several cooking shows on TV. Her recipes were popular among Indian housewives and her legacy lives on even after her passing.",
     "recipes": [
@@ -190,7 +190,7 @@
     "name": "Jaffrey Madhur",
     "chef_img": "https://t3.ftcdn.net/jpg/01/31/26/28/240_F_131262850_nS8wQsckwM1dcRctbuPcIIQK48LcVqj8.jpg",
     "years_of_experience": 20,
-    "number_of_recipes": 800,
+    "number_of_recipes": 60,
     "likes": 70000,
     "bio_description": "Jaffrey Madhur is an Indian-born actress, food and travel writer, and television personality. She has written more than 15 cookbooks and has won several awards for her contributions to Indian cuisine. She is also an advocate for healthy eating and has worked with several international organizations to promote Indian cuisine.",
     "recipes": [
@@ -252,7 +252,7 @@
     "name": "Atul Rahman",
     "chef_img": "https://t3.ftcdn.net/jpg/04/18/02/76/240_F_418027614_qgoV02cLZRNYgBOv4n6KJIH2dnFEsdWY.jpg",
     "years_of_experience": 25,
-    "number_of_recipes": 200,
+    "number_of_recipes": 20,
     "likes": 50000,
     "bio_description": "Atul Rahman is a Michelin-starred Indian chef who has worked in some of the finest restaurants in the world. He is the owner and head chef of the Benares restaurant in London and has won several awards for his innovative approach to Indian cuisine.",
     "recipes": [
@@ -314,7 +314,7 @@
     "name": "Nasir Uddin",
     "chef_img": "https://img.freepik.com/free-photo/image-cheerful-young-cook-uniform-standing-isolated-grey-wall_171337-5340.jpg?size=626&ext=jpg&ga=GA1.2.1316009282.1683127349&semt=robertav1_2_sidr",
     "years_of_experience": 25,
-    "number_of_recipes": 300,
+    "number_of_recipes": 30,
     "likes": 60000,
     "bio_description": "Nasir Uddin is a prominent Indian chef, restaurateur, and cookbook writer. She is the owner of several restaurants in Delhi and has authored several cookbooks, including 'Italian Khana' and 'Travelling Diva'. With over 25 years of experience, she is known for her innovative fusion of Italian and Indian cuisines.",
     "recipes": [
@@ -376,7 +376,7 @@
     "name": "Mitali Saha",
     "chef_img": "https://media.istockphoto.com/id/1204174960/photo/indian-asian-woman-chef-wearing-apron-and-holding-wooden-spatula-while-standing-isolated-over.jpg?s=612x612&w=0&k=20&c=llhC-Q5cRGnlN9nCIVsQb4Uhk32mF0Fnmag2RM7SwBU=",
     "years_of_experience": 20,
-    "number_of_recipes": 250,
+    "number_of_recipes": 40,
     "likes": 50000,
     "bio_description": "Mitali Saha is an Indian celebrity chef, television personality, and author. He is known for his expertise in Indian and fusion cuisine, and has hosted several cooking shows, including 'The Great Indian Rasoi' and 'MasterChef India'. He has also authored several cookbooks, including 'Come Into My Kitchen'.",
     "recipes": [
