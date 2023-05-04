@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "recipe_name": "Butter Chicken",
+    "short_des": " Butter Chicken is a creamy, tomato-based Indian dish with marinated chicken, infused with spices, and finished with butter and cream, usually served with rice or naan bread.",
+    "recipe_pic": "https://t3.ftcdn.net/jpg/03/33/04/02/240_F_333040259_XAngCfVMVrmZbJXD3fqH4DVhMaTK7KbV.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": "2",
+    "recipe_name": "Palak Paneer",
+    "short_des": "Palak Paneer is a flavorful vegetarian Indian dish made with paneer (cottage cheese) and spinach sauce, often finished with cream and served with rice or naan bread.",
+    "recipe_pic": "https://t3.ftcdn.net/jpg/04/65/76/86/240_F_465768659_hpMftMCVFVDdX4unFJRWjBjdk3b6NIRv.jpg",
+    "rating": 4.0
+  },
+  {
+    "id": "3",
+    "recipe_name": "Chana Masala",
+    "short_des": "Chana Masala is a vegetarian Indian dish made with chickpeas cooked in a tomato-based sauce with a blend of spices, often served with rice or bread.",
+    "recipe_pic": "https://t4.ftcdn.net/jpg/02/97/69/65/240_F_297696576_s8k3pGepliFhN2oILIzLUAkQuukKalDI.jpg",
+    "rating": 4.2
+  }
+]
